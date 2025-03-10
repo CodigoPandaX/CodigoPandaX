@@ -8,13 +8,20 @@
 </p>
 
 ## 🚀 About Me
-🔹 Passionate developer who loves coding, sharing knowledge, and building a community.  
-🔹 I create **small and free** projects that you can check out here: [GitHub Repositories](https://github.com/codigopandax?tab=repositories)  
-🔹 With over **1,025+ satisfied customers**, **7,150+ members on Discord**, and **1,620+ Patreon supporters**, I’ve built an amazing community.  
+🔹 Passionate developer specializing in **FiveM** and **Role Play servers**.  
+🔹 Experienced in **server scripting, optimization, and custom features** for immersive RP experiences.  
+🔹 I create **custom scripts, game mechanics, and complete server setups** for FiveM & RP communities.  
+🔹 Check out my **FiveM and RP-related projects** here: [GitHub Repositories](https://github.com/codigopandax?tab=repositories)  
+
+## 🎮 FiveM & Role Play Experience
+- **Years of experience** developing and managing **FiveM RP servers**.  
+- Expertise in **Lua, JavaScript, TypeScript, MySQL, and server management**.  
+- Developed **custom economies, police systems, housing, jobs, and advanced vehicle mechanics**.  
+- Created and optimized **whitelisted and public RP servers** for different communities.  
 
 ## 🌍 Join the Community
-Want to be part of a thriving tech space? Join my **Discord server** and connect with developers & enthusiasts:  
-🔗 **[Join Here](https://discord.gg/Bc7grHrGGp)**
+Want to be part of a thriving **FiveM & RP** development space?  
+🔗 **[Join My Discord](https://discord.gg/Bc7grHrGGp)** and connect with server owners, developers, and RP enthusiasts.  
 
 ## 📊 GitHub Stats
 <p align="center">
